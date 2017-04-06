@@ -19,8 +19,8 @@ public class LoginForm extends JFrame implements ActionListener {
          Container container = getContentPane();
          container.setLayout(new FlowLayout());
       
-         label1 = new JLabel ("Username : ");
-         label2 = new JLabel ("Password : ");
+         label1 = new JLabel ("Username : "); //output
+         label2 = new JLabel ("Password : "); //output
       
          txtUser = new JTextField(20);
          txtUser.setToolTipText("Input Username");
