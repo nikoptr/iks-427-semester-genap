@@ -52,7 +52,7 @@ public class LoginForm extends JFrame implements ActionListener {
             user = txtUser.getText();
             pass = pwdPass.getText();
             if (user.equals("Niko") && pass.equals("niko12345")){
-                JOptionPane.showMessageDialog(null, "Terima kasih anda telah berhasil login ");
+                JOptionPane.showMessageDialog(null, "Terima kasih anda telah berhasil login! ");
                 System.exit(0);
             
             }else{
