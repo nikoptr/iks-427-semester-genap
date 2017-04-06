@@ -1,4 +1,4 @@
-//Kelompok G MPPL
+//Kelompok G Metodologi Pengembangan Perangkat Lunak
 // Dwiky Semuel 064001600016
 // M. Iqbal Hanafi 064001600005
 // Niko Putra 065001600008
